@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ping-Geek
+title: PingMyGeek
 tagline: Ping the sleeping geek in you...
 ---
 {% include JB/setup %}

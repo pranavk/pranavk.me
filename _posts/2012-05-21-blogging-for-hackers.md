@@ -41,8 +41,9 @@ And then jekyll server will successfully create the website in site directory wi
 
 ## Websites to refer for complete documentation.
 
-So that was the quick overview of jekyll and a motivation to start blogging hacker's way.
-Now from this point I don't want to keep yourself stuck to this page only and copy the whole content from the documentation. Surely there are better documentation about creating a successfull blog out there on the Internet.You can go to :
+So that was the quick overview of jekyll and a motivation to start blogging hacker's way. This website is also created using jekyll, I also forked it from bootstrap and then modified it according to my needs.
+
+Now from this point I don't want to keep yourself stuck to this page only. Surely there are better documentation about creating a successfull blog out there on the Internet.You can go to :
 
 [Jekyll Boootstrap - A website framework](http://jekyllbootstrap.com)
 
