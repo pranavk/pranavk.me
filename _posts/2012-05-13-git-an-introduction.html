@@ -1,0 +1,49 @@
+---
+layout: post
+title: ! 'Git : An Introduction'
+tags: [git, CVS]
+category : general
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '35791753'
+  jabber_published: '1336945112'
+---
+<h3>Introduction </h3>
+<br/>
+<p>
+Many of you might have wondered in the past what Git actually is and today you are here browsing the internet in search to learn what it is all about. Git <strong></strong>is a revision control and source code management software and it is one of the popular Version Control system. Now you might ask what is this Version control system ? Well, if you are a novice then let me tell you that when programmers work on a big project, they often save the project many times a day, removing each and every bug as they find out. Now there are some situations when instead of removing a bug, a new bug is introduced and now you want to go back to previous versions and start working on from there. If you are not working under CVS this will be impossible for you, since you don't have so much of backup directories and files out there to revert to. But CVS takes care of this thing so intelligently by taking the minimum amount of space to store your project and at the same time have the ability for your project to get reverted to any of the initial state. Each save in programmer's language is called commit, so programmers made commits whenever they feel that they have resolved a new bug and that gets stored in Git's history so that if anytime the author or anyone wants to access the previous version he can revert back all the states of his directories to a previous state. Each commit is accompanied by date, time and most important - a commit message which let people know what changes are included in this version.
+</p>
+<p>
+In linux many situations occur when the user have to copy the source code for a software from the internet or to be more specific from the git repository. Infact most of the open source projects resides under git repositories so that it  can qualify to be a open source project and everybody can access the code, everybody can make commits to it.
+</p><p>
+Now I will be telling you setting up git on your computer. I will be assuming that you are linux user. But even if you are a Windows user the whole process won't be much different.
+</p><p>
+Install git using your package manager, use yum for rpm based linux or use apt-get for debian linux. Once it is installed you need to do some initial registration with git such as adding your username and email. This information is important and is used when you make commit to some software or submit patches. Add your name and email as follows :
+</p>
+<p>
+<code>
+git config --global user.name "yourusernamehere"
+</p><p>
+git config --global user.email "youremailid@yourmail.com"
+</code>
+</p><p>
+This was the initial setup of git on your computer. Rest of the article now is a small demonstration of cloning the source code of a program into your computer and later on you will be told how you can initiate a git system on your localhost and work on it. I am telling this just to give you a basic feel of what git is.
+</p><p>
+To clone the source code from the internet you have to find git repository and then you will access that source code using git protocol. I assume in this tutorial that you are using a linux box and we are cloning a calculator's application source code from git.gnome.org using git protocol. So first see if git is installed on your system, if not install it via yum or apt-get ( whatever you use to install softwares ). After installing git, you can type in the following command to clone the source code of gcalctool (codename for calculator ).
+</p><p><code>
+git clone git://git.gnome.org/gcalctool
+</code>
+</p><p>
+Above command will clone the source code of the application into your computer so that you can make your commits on it, submit patches and do whole of the related stuff.
+</p><p>
+Now if you have your existing project on your computer that you made from scratch then you might want to have this CVS system applied to your project also so that you can easily revert back to changes committed in past. To do this you change you current directory to the project directory and then do this :
+</p><p><code>
+git init
+</code>
+</p><p>
+Above command will add a .git hidden directory in your current directory and store whole of the git data into that directory. It records all of the information that is required for your project to be CVS based.
+</p><p>
+Above was only the introduction to git, I gave some examples out above just to make it more clear what the git is all about. Few commands above are all basic stuff, similarly there are many other things also that can be accomplished with git like submitting patches. You wille be able to grasp whole of this once you start working with git regularly. GitHub is such website where you can have your own repositories, and push your code from your computer to github anytime, make commits and give you whole look and feel of working in a social coding environment. If you want to be a open source hacker then I must say that you should register for your free account on github, its worth it.
+</p>
