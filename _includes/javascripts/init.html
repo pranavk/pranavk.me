@@ -1,0 +1,17 @@
+{% if site.javascripts.enabled %}
+  <script src="{{ site.javascripts.baseUrl }}/require.js"></script>
+	<script>
+	require.config({
+	  baseUrl : "{{ site.javascripts.baseUrl }}",
+	});
+	require(['order!jquery','jb'], function($, JB){
+	  JB.init(function(){
+	  {% if page.tabify %}
+	    JB.plugins.tabify.init(".tabify", "{{ page.tabify }}");
+	  {% endif %}
+	    $("a[rel='twipsy']").twipsy();
+	    $("a[rel='popover']").popover();
+	  });
+	});
+	</script>
+{% endif %}
