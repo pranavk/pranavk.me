@@ -1,0 +1,33 @@
+<div class="page-header">
+  <h1>{{ page.title }}</h1>
+</div>
+
+<div class="row">
+  <div class="span12">
+
+    <h2>Stack</h2>
+    <table class="project-tags">
+      <thead>
+        <tr>
+          <th>&#160;</th>
+          <th>Hover over components used in this project to learn more.</th>
+        </tr>
+      </thead>
+      <tbody>
+      {% for tagGroup in page.project.tagGroups %}
+        <tr>
+          <td class="tag-group">{{ tagGroup.name }}</td>
+          <td><ul>
+          {% for tag in tagGroup.tags %}
+            <li><a href="#" rel='popover' title="Why?" data-content="{{ tag.why }}">{{ tag.name }}</a></li>
+          {% endfor %}
+          </ul></td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+
+   
+    {{ content }}
+  </div>
+</div>

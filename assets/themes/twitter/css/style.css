@@ -68,4 +68,40 @@ html, body {
 	border:1px solid #4C964D;
 	color:#FFF;
 }
+
+/*Project page tags from bootstrap project page.*/
+
+td.tag-group {
+	width:120px;
+	color:#333;
+	font-weight:bold;
+	text-transform:capitalize;
+	vertical-align:middle;
+}
+
+table.project-tags td {
+	border:0;
+}
+table.project-tags ul {
+	list-style:none;
+	margin:0;
+	padding:5px 0 ;
+	overflow:hidden;
+}
+table.project-tags ul li {
+	line-height:28px;
+	float:left;
+}
+table.project-tags ul a {
+	padding: 3px 6px;
+	margin: 2px;
+	background: #6A5E72;
+	color:#FFF;
+	border-radius: 3px;
+	text-decoration:none;
+	font-family:verdana;
+}
+table.project-tags ul a:hover {
+ background:#341931
+}
 	
