@@ -2,11 +2,11 @@
   <h3><a href="{{ post.url }}" class="dark-link">{{ post.title }}</a></h3>
   <h4 class="low-top">
     Posted on {{ post.date | date_to_string }}
-    {% unless no_category %}
+   <!--   {% unless no_category %}
       {% if post.category %}
-        in <a href="/categories/{{ post.category | slugize }}">{{ post.category }}</a>
+       in <a href="/{{ post.category | slugize }}">{{ post.category }}</a> 
       {% endif %}
-    {% endunless %}
+    {% endunless %}-->
   </h4>
   
   <p>{{ post.content | strip_html | truncatewords: 75 }}</p>
