@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ping My Geek !
-tagline: Ping the sleeping geek in you !
+title: Ping-Geek
+tagline: Ping the sleeping geek in you...
 ---
 {% include JB/setup %}
 
@@ -14,7 +14,7 @@ personality in this tech field. I just want to share my knowledge with you all p
 on the website so that you can easily discuss and point out my mistakes if there is any. However I will fully try to minimize that at any cost. 
 
 Happy reading !
-I love Jekyll..
+
     
 ## Recent posts from Pranav Kant.
 
