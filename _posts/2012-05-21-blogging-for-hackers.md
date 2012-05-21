@@ -19,7 +19,7 @@ Jekyll server then parses all the file in the expected directory structure and t
 
 You can create both static and dynamic websites with it, I like static websites, because I don't ever have so much time to maintain dynamically generated websites, managing security of dynamic websites from sql-injections and all that. And I think that if you are really blogging just for the sake of interest, just because you want to share thoughts, you also don't have that much time to get yourself into dynamic web pages unless you are planning to have some business included in your blog and want to provide users with more facilities also apart from blogging. Remember, I don't mean to say that in static webpages you won't be able to add comment options and all that, you can surely run scripts and can make your website interactive using disqus etc. But still if you are not able to hold yourself and want to go dynamic, you can refer this : 
 
-	Heroku
+[Heroku and jekyll sitting on a tree](http://bionicspirit.com/blog/2012/01/05/blogging-for-hackers.html)
 
 As I said above that Jekyll is nothing more than a parsing engine, so all the time you play with the files and folders, write your content in a different way so that Jekyll parses it and generate webpages in a way you want. There are several ways to install jekyll, but the most easiest one is ruby's way. 
 

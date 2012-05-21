@@ -79,9 +79,9 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : false #disqus
+    provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : pingmygeek
     livefyre :
       site_id : 123
     intensedebate :
@@ -97,9 +97,9 @@ JB :
   # Set 'provider' to false to turn analytics off globally.
   #        
   analytics :
-    provider : false #google
+    provider : google #google
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-31921977-1'
     getclicky :
       site_id : 
     mixpanel :
