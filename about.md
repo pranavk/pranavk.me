@@ -2,6 +2,7 @@
 layout: page
 title: About Me 
 header: Pages
+group: navigation
 ---
 {% include JB/setup %}
 
