@@ -15,9 +15,14 @@ My name is Pranav Kant studying Computer Science at **National Institute of Tech
 I love coding and know some of the languages C, JAVA. Apart from computers, I also love to play football. I am an athlete also and have participated in some athletic events in my school time. Moreover I like browsing the internet, making new contacts, configuring new softwares, getting aware of new technology.
 
 I created this to share my knowledge, thoughts and day to day experience with you. I hope you will be enjoying your visit here by finding knowledgable material on this website. I am also trying to add more interactivity to this website but that will surely take some time since I don't focus my complete attention to this web thing and prefer to learn other things before.
-
+   
+<br />
+<br />
+   
+<br />
+<br />
 ### Contact Me
-
+---
 I like to make friends having Computer Science orientation. I like to talk with them and hanging out with them. You are most welcome to contact me on facebook, follow me on twitter or on google+ and lot many. I am usually known over the Internet with only few nicknames.
 - ron2794
 - pranavk (my IRC nick)
