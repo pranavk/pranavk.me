@@ -21,7 +21,7 @@ In linux many situations occur when the user have to copy the source code for a 
 
 ## Getting started with git
 ---
-Now I will be telling you setting up git on your computer. I will be assuming that you are linux user. But even if you are a Windows user the whole process won't be much different.
+Now I will be telling you setting up git on your computer. I will be assuming that you are linux user. But if you are a Windows user then you might consider downloading Git for windows, just google it.
 
 Install git using your package manager, use yum for rpm based linux or use apt-get for debian linux. 
 
@@ -37,13 +37,13 @@ Once it is installed you need to do some initial registration with git such as a
 
 This was the initial setup of git on your computer. Rest of the article now is a small demonstration of cloning the source code of a program into your computer and later on you will be told how you can initiate a git system on your localhost and work on it. I am telling this just to give you a basic feel of what git is.
 
-To clone the source code from the internet you have to find git repository and then you will access that source code using git protocol. I assume in this tutorial that you are using a linux box and we are cloning a calculator's application source code from git.gnome.org using git protocol. So first see if git is installed on your system, if not install it via yum or apt-get ( whatever you use to install softwares ). After installing git, you can type in the following command to clone the source code of this application.
+To clone the source code from the internet you have to find git repository and then you will access that source code using git protocol. I assume in this tutorial that you are using a linux box and we are cloning a calculator application source code from github using git protocol. So first see if git is installed on your system, if not install it via yum or apt-get ( whatever you use to install softwares ). After installing git, you can type in the following command to clone the source code of this application.
 
 `git clone git://github.com/mgomes/GCalc`
 
 Above command will clone the source code of the application into your computer so that you can make your commits on it, submit patches and do whole of the related stuff.
 
-Now if you have your existing project on your computer that you made from scratch then you might want to have this CVS system applied to your project also so that you can easily revert back to changes committed in past. In both the cases, to do this you change you current directory to the project directory (gcalctool in case you don't have any existing project) and then do this :
+Now there may be another situation when you have your existing project on your computer that you made from scratch and you want to have CVS system applied to it so that you can easily manage different version of the project you will be releasing in future. In both the cases, to do this you change you current directory to the project directory (gcalctool in case you don't have any existing project) and then do this :
 
 `git init`
 
@@ -75,15 +75,34 @@ Till now everything is fine, but now I will suggest you to create an account on 
 
 So create an account on github and then create repository out there with the same name as of your project. Now intialize the git in your current directory of the project, do some changes, add to the staging area using git add command and then commit the changes, all of which I told you how to do in above lines.
 
-Now I will be telling some thing about remote commands of git. You will add an alias for the url you want to push your changes to. Eg: My username on github is pranav913, so I will add a remote alias corresponding to any of the repository in my account. Currently 'pingmygeek' is the repository on my github account. And I have pingmygeek project also in my local computer, I make changes into that and push the changes to the github account which are then reflected on the github/pingmygeek. The whole procedure goes as :
+Now I will be telling some thing about remote commands of git. You will add an alias for the url you want to push your changes to. Eg: My username on github is pranavk, so I will add a remote alias corresponding to any of the repository in my account. Currently 'pranavk.github.com' is a repository on my github account. And I have project contained in a directory related to pranavk.github.com in my local computer, I will make  the changes to that and push the changes to the github account which are then reflected on the github/pranavk.github.com. The whole procedure goes as :
 
 `git remote add origin git@github.com/pranav913/pingmygeek`
 
-this adds an alias 'origin' for the url 'git@github.com/pranav913/pingmygeek' mentioned above.
+this adds an alias 'origin' for the url 'git@github.com/pranav913/pingmygeek' mentioned above. Now I don't need to mention that big url, I will just mention the alias from now. 
+	
+	NOTE 
+
+	You can see the currently assigned alias by :
+	`git remote -v`
+
+	You can also remove an alias as :
+	`git remote rm [aliasname]`
 
 Now I will push the changes I made to the remote server by pushing the origin to the master branch(i.e the remote server branch)
 
 `git push origin master`
 
 After this all the changes I made locally on my computer will now be reflected on github account globally to all the users with history of commits and commit message I passed on while commiting the changes.
+
+There might be a situation in which you get a error while pushing the changes to master branch, the error about non-fast-forwards. To avoid this error there are two methods, first one is by adding a --force flag to the push command. But it is not recommended, so we will use the second one. In second method, you will just pull the master branch before pushing to the master branch as :
+
+`git pull origin master`
+
+git pull command is same as git fetch except it do an additional task of merging the remote branch with local branch. So means you can divide the above git pull command into two commands of git fetch and git merge. 
+
+After this git pull command, now again try to push the origin to master branch, it will be successfully pushed to master without giving any non-fast-forward errors.
+
+Happy gitting!
+
 
