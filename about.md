@@ -1,40 +1,29 @@
 ---
 layout: page
-title: About Me 
-header: Pages
+title: "About"
+description: "About this website."
 group: navigation
 ---
 {% include JB/setup %}
 
-<p>
-	<img src="me.jpg" align="right">
-</p>
+I am a passionate computer science student, currently studying pursuing for a Bachelor's Degree in Computer Science or I should say currently playing my computer science bachelor's degree. Yep, I define that activity as 'playing' whenever I need to express that it is giving me a joy. Infact alot of us does that.  
 
-My name is Pranav Kant studying Computer Science at **National Institute of Technology Hamirpur** and will be completing my undergraduate study in 2015. I love computers and like to tweak with computers just for fun.
+# About the Website
+Its good to have one website hosted on public servers. And if you have no business to do over the internet, so you can have blog which expose your life to
+the outside world. The experience with me about blogging has been nice since I have started blogging. I changed from one host to another and then to another. 
+From blogspot to wordpress then to self made websites. Also changed many webhosts from xtreemhost.com to 000webhost.com always trying to find out free webhosts 
+in the internet market just because I did not have enough money to invest into this. I am still unemployed, do not have the source of income, thats why always 
+trying to find these free webhosts. To host a website you need a domain also, so I have been finding these free domains also from a long time. I had a cz.cc domain
+intially but then it had some issues with some social networking websites, so you cannot share these domains in facebook etc. Then I switched to this 000webhost.
 
-I love coding and know some of the languages C, JAVA. Apart from computers, I also love to play football. I am an athlete also and have participated in some athletic events in my school time. Moreover I like browsing the internet, making new contacts, configuring new softwares, getting aware of new technology.
+Now the situation is that I am hosting my blog here on 000webhost and domain bought from co.cc and using the core, no wordpress, no blogspot, its just the jekyll.
+I love it. You can read my post about starting with jekyll if you are interested in creating such a website I have created, it takes no more than a day to fully 
+setup your jekyll website and I really like it. 
 
-I created this to share my knowledge, thoughts and day to day experience with you. I hope you will be enjoying your visit here by finding knowledgable material on this website. I am also trying to add more interactivity to this website but that will surely take some time since I don't focus my complete attention to this web thing and prefer to learn other things before.
-   
-<br />
-<br />
-   
-<br />
-<br />
-### Contact Me
----
-I like to make friends having Computer Science orientation. I like to talk with them and hanging out with them. You are most welcome to contact me on facebook, follow me on twitter or on google+ and lot many. I am usually known over the Internet with only few nicknames.
-- ron2794
-- pranavk (my IRC nick)
-- pranav913
+Well in this website I have thought of putting as much as entries as possible. Everyday I learn something new, so why not share all these learnings with you. There
+are small learnings also sometimes, small enough which makes them ineligible to share on the internet. But whenever I learn something new in this beautiful world of
+**Computer Science** and I feel like sharing it, I just add a new entry in my blog. 
 
-Below is my facebook profile link.
-
-[Facebook](http://www.facebook.com/pranav913)
-
-You can also email me at :
-
-**pranav913@gmail.com**
-
-Looking forward to hear from you soon ! :)
+# What I want to do ?
+I want to be so much of things in this computer science world but unfortunately its just too big. I want to learn so many of the languages in the market and do all the tweaking stuff with the softwares, OSs available in the market and a lot more. Just keep hacking and tweaking. Frankly speaking I just want to keep myself satisfied with this computer science stuff and I hope that I won't get satisfied until I become something and reach some height. 
 
