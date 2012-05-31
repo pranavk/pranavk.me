@@ -6,7 +6,26 @@ group : navigation
 ---
 {% include JB/setup %}
 
-{% assign posts_collate = site.posts %}
+ <div class="span7">
+  {% assign posts_collate = site.posts %}
 {% include JB/posts_collate %}
 
+  </div>
+ 
+<div class="span4" >
+<br/>
+<center> 
+<h4> If you are feeling confused about finding a post. Choose below to sort posts differently.</h4>
+
+<br/><br/>
+<a href="categories.html">Sort Posts by categories</a>
+
+
+<br/><br/>
+
+<a href="tags.html">Sort Posts by Tags</a>
+
+</center>
+
+</div>
 

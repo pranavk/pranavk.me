@@ -8,5 +8,3 @@ I used [Jekyll Bootstrap](http://www.jekyllbootstrap.com) for reading the docume
 
 [**You can read my blog here which will give you intialization in starting a blog with jekyll.**](http://www.pingmygeek.co.cc/general/blogging-for-hackers/)
 
-### Licensed with :
-[Creative Commons](http://creativecommons.org/licenses/by-nc-sa/3.0/)
