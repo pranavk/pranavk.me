@@ -19,6 +19,5 @@ I used **JAVA** as a front-end and **MySQL** as a back-end. Overall it was nice 
 - **Record Manager for Organization :** Using same **JAVA** and **MySQL**, I created one another project just before entering the college. The project elegantly manages the record for the organization. The organization was actually about selling its services and products to its customers. The software helps them in keeping a record of the payment for each of the job assigned to the organization and in keeping whole of the detail about its customers in a database rather than storing them on a paper with a pen.
 
 ##Current Projects
-NULL.
- 
-Yes NULL, I think that I should now use some time to gather knowledge and excelling in programming languages, logic, maths, algorithms, datastructure etc. Then picking up a project at a later stage would be fine enough. 
+
+Currently I am working to explore the world of Computer Science and simultaneously working on a **Project :** using Python and NoSQL databases to help travelers give more flexibility in finding information over the web. 
