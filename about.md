@@ -11,14 +11,9 @@ I am a passionate computer science student, currently pursuing a Bachelor's Degr
 ## About the Website
 
 Its good to have one website hosted on public servers. And if you have no business to do over the internet, so you can have blog which expose your life to
-the outside world. The experience with me about blogging has been nice since I have started blogging. I changed from one host to another and then to another. 
-From blogspot to wordpress then to self made websites. Also changed many webhosts from xtreemhost.com to 000webhost.com always trying to find out free webhosts 
-in the internet market just because I did not have enough money to invest into this. I am still unemployed, do not have the source of income, thats why always 
-trying to find these free webhosts. To host a website you need a domain also, so I have been finding these free domains also from a long time. I had a cz.cc domain
-intially but then it had some issues with some social networking websites, so you cannot share these domains in facebook etc. Then I switched to this 000webhost.
+the outside world.
 
-Now the situation is that I am hosting my blog here on 000webhost and domain bought from co.cc and using the core, no wordpress, no blogspot, its just the jekyll.
-I love it. You can read my post about starting with jekyll if you are interested in creating such a website I have created, it takes no more than a day to fully 
+The website if made by using jekyll and some of the tweaking that I did with it. I love it. You can read my post about starting with jekyll in the blog archive if you are interested in creating such a website I have created, it takes no more than a day to fully 
 setup your jekyll website and I really like it. 
 
 Well in this website I have thought of putting as much as entries as possible. Everyday I learn something new, so why not share all these learnings with you. There
