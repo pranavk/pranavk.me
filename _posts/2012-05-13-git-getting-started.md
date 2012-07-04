@@ -103,6 +103,10 @@ git pull command is same as git fetch except it do an additional task of merging
 
 After this git pull command, now again try to push the origin to master branch, it will be successfully pushed to master without giving any non-fast-forward errors.
 
-Happy gitting!
+##References
+
+[GitReference](http://www.gitref.org) is a good place to start with if you want to get deep inside git. 
+
+
 
 
