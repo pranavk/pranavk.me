@@ -14,10 +14,14 @@ Its good to have one website hosted on public servers. And if you have no busine
 the outside world.
 
 The website if made by using jekyll and some of the tweaking that I did with it. I love it. You can read my post about starting with jekyll in the blog archive if you are interested in creating such a website I have created, it takes no more than a day to fully 
-setup your jekyll website and I really like it. 
-
-Well in this website I have thought of putting as much posts as possible. Everyday I learn something new, so why not share all these learnings with you.
+setup your jekyll website and I really like it. Well in this website I have thought of putting as much posts as possible. Everyday I learn something new, so why not share all these learnings with you.
 
 If you like this website, please consider sharing it. If not much atleast I can get more visitors/day. :)
-<br/><br/>
+
+## Contact
+
+You can contact me on :
+info@pingmygeek.com
+
+I will try to respond as soon as possible.
 
