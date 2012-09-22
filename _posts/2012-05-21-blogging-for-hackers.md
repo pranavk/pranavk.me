@@ -33,7 +33,7 @@ or just install these two packages ruby and ruby-devel to get started from your 
 
 Now you can intiate the jekyll server with a single command and it will parse all the material in the directory in which it is invoked and generate a site for you. But before invoking the jekyll server you need to make sure that the directory in which you are invoking it has the same structure of sub-directories the jekyll expects it to be. There are plenty of websites available from where you can have the right structure. This website is also publicly available at github here :
 
-[pingmygeek.co.cc@github](https://www.github.com/pranav913/pingmygeek.co.cc/)
+[pranavk@github](https://www.github.com/pranavk/pranavk.github.com/)
 
 I also forked it from bootstrap github account. 
 
