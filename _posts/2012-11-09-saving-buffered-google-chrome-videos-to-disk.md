@@ -63,3 +63,14 @@ If you are using kde, then use this :
 This command shall open the default application with which that file
 should be opened.
 
+## Scope 
+
+I see that this procedure is too manual and requires a bit of
+headache. This procedure can be made very simpler for day to day use
+by writing a script that shall automatically detect the new file
+entered into that directory with its type as say video and then offer
+the user if he/she wants to save the same to hard disk for further
+use.
+
+I will be working soon on this to create such kind of tool. If you do
+before me, do tell me by dropping me an email.
