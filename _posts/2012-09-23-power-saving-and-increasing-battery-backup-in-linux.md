@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Power saving and increasing battery backup in linux"
+title: "Power saving and increasing battery backup in linux with
+nvidia GPU"
 description: "The post tells you the ways to increase your battery backup in linux as battery backup in linux is horrible as compared to other OS like windows and MacOS."
 category: linux
 tags: [ubuntu, fedora, linux, power-saving, battery-backup, heat-problems, increasing-battery-in-linux, linux-battery, nvidia]
