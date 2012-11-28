@@ -77,5 +77,5 @@ Or you can insert the module acpi_call.ko in your linux kernel modules in /boot/
 ## More help regarding battery
 If you want to know more about battery conservation in linux and want to save more battery, its highly recommended for you to have a look over this website :
 
-http://www.lesswatts.org/
+[Lesswatts.org](http://www.lesswatts.org/)
 
