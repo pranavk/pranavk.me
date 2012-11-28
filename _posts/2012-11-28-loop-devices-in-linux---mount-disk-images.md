@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Loop Devices in linux -- Mount disk images"
+title: "Loop Devices in linux - Mount disk images"
 description: "Mount images in linux using loop devices."
 category: linux
-tags: [linux,mount,image,loopdevices]
+tags: [linux mount image loopdevices]
 ---
 {% include JB/setup %}
 
