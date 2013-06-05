@@ -9,7 +9,7 @@
     {% endunless %}-->
   </h4>
   
-  <p>{{ post.content | strip_html | truncatewords: 75 }}</p>
+  <p>{{ post.content | strip_html | truncatewords: 100 }}</p>
   <p><a href="{{ post.url }}">Read more...</a></p>
 {% endfor %}
 
