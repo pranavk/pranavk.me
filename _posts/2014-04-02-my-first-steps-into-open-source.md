@@ -3,7 +3,7 @@ layout: post
 title: "My first steps into open source"
 description: "My first significant open source contributions"
 category: personal
-tags: [personal, open-source]
+tags: [personal, open-source, gnome-soc]
 ---
 {% include JB/setup %}
 

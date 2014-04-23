@@ -15,6 +15,7 @@ layout: nil
  </author>
 
  {% for post in site.posts %}
+ {% if post.tags contains 'gnome-soc' %}
  <entry>
    <title>{{ post.title }}</title>
    <link href="{{ site.production_url }}{{ post.url }}"/>
@@ -22,6 +23,7 @@ layout: nil
    <id>{{ site.production_url }}{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
+{% endif %}
  {% endfor %}
  
 </feed>
