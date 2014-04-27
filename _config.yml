@@ -85,7 +85,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : pingmygeek
+      short_name : prickedin
     livefyre :
       site_id : 123
     intensedebate :
