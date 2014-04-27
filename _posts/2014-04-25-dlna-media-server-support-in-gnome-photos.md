@@ -3,7 +3,7 @@ layout: post
 title: "DLNA Media Server support in gnome photos"
 description: "This post talks about adding DLNA Media server support in gnome-photos"
 category: open-source
-tags: [gnome-soc]
+tags: [gnome-soc, gnome]
 ---
 {% include JB/setup %}
 

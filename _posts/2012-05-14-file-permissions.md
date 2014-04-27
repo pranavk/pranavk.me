@@ -4,9 +4,7 @@ title: File permissions in Linux
 category : linux
 tagline: Linux heart-beat
 tags:
-- file permissions
-- linux
-- rwx
+- security
 status: publish
 type: post
 published: true

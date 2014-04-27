@@ -3,7 +3,7 @@ layout: post
 title: "NoSQL databases"
 description: "Introduction to NoSQL databases."
 category: database
-tags: [database,nosql, key-value store]
+tags: [nosql]
 ---
 {% include JB/setup %}
 

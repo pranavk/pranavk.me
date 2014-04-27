@@ -3,7 +3,7 @@ layout: post
 title: Blogging for Hackers
 description: "Forget Wordpress, Blogspot"
 category: general 
-tags: [blogging hackers, custom blog]
+tags: [blogging]
 ---
 {% include JB/setup %}
 

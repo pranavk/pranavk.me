@@ -3,7 +3,7 @@ layout: post
 title: "Getting started with TopCoder"
 description: "Getting started with Online programming competitions"
 category: programming
-tags: [programming, online programming competitions, topcoder, coding online]
+tags: [coding, topcoder]
 ---
 {% include JB/setup %}
 

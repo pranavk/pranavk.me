@@ -3,7 +3,7 @@ layout: post
 title: "Parsing large XML files efficiently with Python"
 description: "Article describes how to parse large XML files with python using lxml library"
 category: python
-tags: [python, xml, lxml, efficiency, parsing osm data, parsing large xml]
+tags: [xml, bigdata]
 ---
 {% include JB/setup %}
 

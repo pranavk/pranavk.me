@@ -3,7 +3,7 @@ layout: post
 title: "Google Summer of Code 2014"
 description: "accepted as a student to contribute to gnome in gsoc14"
 category: open-source
-tags: [gnome-soc, personal]
+tags: [gnome-soc, personal, gnome]
 ---
 {% include JB/setup %}
 

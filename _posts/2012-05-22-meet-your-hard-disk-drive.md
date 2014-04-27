@@ -3,7 +3,7 @@ layout: post
 title: "Meet your Hard Disk Drive"
 description: "Structure of your Hard Disk"
 category: general
-tags: [HDD, structure of hard disk, inside hard disk]
+tags: []
 ---
 {% include JB/setup %}
 

@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to GPG - GNU Privacy Guard"
 description: "The posts tells you about the GPG and how to setup one."
 category: cryptography
-tags: [linux gpg digital-signature encryption]
+tags: [linux, gpg]
 ---
 {% include JB/setup %}
 

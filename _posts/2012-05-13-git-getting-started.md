@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ! 'Git : Getting started '
-tags: [git, CVS]
+tags: [git]
 category : general
 status: publish
 type: post

@@ -3,7 +3,7 @@ layout: post
 title: "Hiding data in Windows"
 description: "Article describes the art of hiding data in Windows"
 category: windows
-tags: [hiding files in windows]
+tags: [security]
 ---
 {% include JB/setup %}
 

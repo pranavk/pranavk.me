@@ -3,7 +3,7 @@ layout: post
 title: "Saving Buffered Google Chrome Videos to Disk"
 description: "The post tells you how you can save the buffered video buffered in Google chrome to disk."
 category: general
-tags: [google-chrome, buffered-video-downloader]
+tags: [google-chrome]
 ---
 {% include JB/setup %}
 
