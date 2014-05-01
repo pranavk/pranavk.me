@@ -27,10 +27,10 @@ I like to make new friends. Feel free to contact me.
 
 You can get in touch with me on:
 
-pranavk (my IRC nick) - mostly available on freenode and GIMPNet
-[Twitter](http://www.twitter.com/pranav913)
-[Facebook](http://www.facebook.com/pranav913)
-[LinkedIn](in.linkedin.com/in/pranav913/)
+- pranavk (my IRC nick) - mostly available on freenode and GIMPNet
+- [Twitter](http://www.twitter.com/pranav913)
+- [Facebook](http://www.facebook.com/pranav913)
+- [LinkedIn](in.linkedin.com/in/pranav913/)
 
 You can also email me at :
 
