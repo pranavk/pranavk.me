@@ -15,16 +15,23 @@ I am Pranav Kant studying Computer Science at **[National Institute of Technolog
 
 I love coding and know Python, C, C++, JAVA, Ruby. Apart from computers, I also love to play football. Moreover I like browsing the internet, making new contacts, configuring new softwares, getting aware of new technology.
 
+I am a [Mozillian](https://mozillians.org/en-US/u/pranavk) which means that I
+have contributed few patches to Mozilla and an active
+contributor to [GNOME](http://gnome.org) also. In GNOME, I mainly work on
+gnome-photos.
+
+My latest [GSoC 2014 project](https://www.google-melange.com/gsoc/project/details/google/gsoc2014/pranav913/5757334940811264) is also an enhancement to gnome-photos.
 
 ### Contact Me
 I like to make new friends. Feel free to contact me.
 
-- pranavk (my IRC nick)
+You can get in touch with me on:
 
-Below is my facebook profile link.
-
+pranavk (my IRC nick) - mostly available on freenode and GIMPNet
+[Twitter](http://www.twitter.com/pranav913)
 [Facebook](http://www.facebook.com/pranav913)
+[LinkedIn](in.linkedin.com/in/pranav913/)
 
 You can also email me at :
 
-**pranav913 AT gmail.com**
+**pranav913 AT gmail DOT com**
