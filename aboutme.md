@@ -37,4 +37,4 @@ You can also email me at :
 
 I am a hardcore FOSS lover. I use linux, do not ask me to fix your windows computer.
 
-<a href="http://www.upgradefromwindows8.com"><img src="//static.fsf.org/fsforg/graphics/windows-infographic_share.png" alt="Close Windows, Open Doors"/></a>
+<p><a href="http://www.upgradefromwindows8.com"><img src="//static.fsf.org/fsforg/graphics/windows-infographic_share.png" alt="Close Windows, Open Doors"/></a></p>
