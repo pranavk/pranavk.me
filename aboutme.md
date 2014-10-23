@@ -13,7 +13,7 @@ group: navigation
 
 I am Pranav Kant studying Computer Science at **[National Institute of Technology Hamirpur](http://nith.ac.in)** and will be completing my undergraduate study in 2015. I love computers and like to tweak with computers just for fun.
 
-I love coding and know Python, C, C++, JAVA, Ruby. Apart from computers, I also love to play football. Moreover I like browsing the internet, making new contacts, configuring new softwares, getting aware of new technology.
+I love coding and know Python, C, C++, JAVA, Ruby. Apart from computers, I also love to play football. Moreover I like browsing the internet, making new contacts, tweaking new softwares, getting aware of new technology.
 
 I am a [Mozillian](https://mozillians.org/en-US/u/pranavk) which means that I
 have contributed few patches to Mozilla and an active
@@ -34,3 +34,7 @@ You can get in touch with me on:
 You can also email me at :
 
 **pranav913 AT gmail DOT com**
+
+I am a hardcore FOSS lover. I use linux, do not ask me to fix your windows computer.
+
+<a href="http://www.upgradefromwindows8.com"><img src="//static.fsf.org/fsforg/graphics/windows-infographic_share.png" alt="Close Windows, Open Doors"/></a>
