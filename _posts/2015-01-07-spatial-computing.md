@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Spatial Computing"
-description: "About the design of a computer architecture that computes in space"
+title: "My research project on Spatial Computing"
+description: "About the design of a computer architecture computing in space"
 category: architecture
 tags: [wavescalar, spatial-computing, gnome-soc]
 ---
