@@ -2,8 +2,8 @@
 layout: post
 title: "Libreoffice headless comes to the rescue"
 description: "Mass conversion to pdf files"
-category: 
-tags: [general]
+category: linux
+tags: [libreoffice]
 ---
 {% include JB/setup %}
 

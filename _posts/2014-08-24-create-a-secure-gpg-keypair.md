@@ -3,7 +3,7 @@ layout: post
 title: "Create a secure GPG keypair with subkeys"
 description: "This post talks about creating a secure GPG pair immuned to theft
 of your keys."
-category: crypto
+category: cryptography
 tags: [crypto]
 ---
 {% include JB/setup %}

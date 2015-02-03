@@ -2,8 +2,8 @@
 layout: post
 title: "Setting up a mail server the easy way"
 description: ""
-category: sysadmin
-tags: []
+category: linux
+tags: [sysadmin]
 ---
 {% include JB/setup %}
 

@@ -2,8 +2,8 @@
 layout: post
 title: "Enabling user homedirs on Apache"
 description: ""
-category: 
-tags: [apache, centos]
+category: linux
+tags: [apache, centos, sysadmin]
 ---
 {% include JB/setup %}
 
@@ -49,4 +49,4 @@ Restart the server and you should now be able to have directory listing enabled.
 If you are not able to access something, it is probably because of the
 permissions, so double check the permissions before looking for help again.
 
-Oh my ! This sysadmin stuff is addicted. ;)
+Oh my ! This sysadmin stuff is addictive. ;)
