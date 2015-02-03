@@ -9,7 +9,7 @@ tags: [general]
 
 During exam time, I often have to read a lot of .ppt files provided to me by our
 instructors. That's what we are supposed to study so that sylabii can be
-revised quickly. I don't windows at all and hence have to use libreoffice for
+revised quickly. I don't use windows at all and hence have to use libreoffice for
 opening these presentation files but libreoffice is quite slow for me as
 compared to microsoft powerpoint. I don't want to install Windows now just
 because of this purpose. However, I observed that pdfs can be opened
