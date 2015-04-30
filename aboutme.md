@@ -13,7 +13,7 @@ group: navigation
 
 I am Pranav Kant studying Computer Science at **[National Institute of Technology Hamirpur](http://nith.ac.in)** and will be completing my undergraduate study in 2015. I love computers and like to tweak with computers just for fun.
 
-I love coding and know Python, C, C++, JAVA, Ruby. Apart from computers, I also love to play football. Moreover I like browsing the internet, making new contacts, tweaking new softwares, getting aware of new technology.
+I love coding and know Python, C, C++, JAVA, Ruby. Apart from computers, I also love to play football, browse internet, making new friends, tweaking new softwares, playing with new technology.
 
 I am a [Mozillian](https://mozillians.org/en-US/u/pranavk) which means that I
 have contributed few patches to Mozilla and an active
@@ -21,6 +21,8 @@ contributor to [GNOME](http://gnome.org) also. In GNOME, I mainly work on
 gnome-photos.
 
 My latest [GSoC 2014 project](https://www.google-melange.com/gsoc/project/details/google/gsoc2014/pranav913/5757334940811264) is also an enhancement to gnome-photos.
+
+You can download my latest resume [here](http://pranavk.github.io/cv.pdf).
 
 ### Contact Me
 I like to make new friends. Feel free to contact me.
