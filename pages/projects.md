@@ -20,11 +20,10 @@ I attended [GUADEC](http://guadec.org) 2014 in Strasbourg, France and met many e
 open source community.
 
 ## Open source Developer at Mozilla
-I am also a contributor at Mozilla Foundation. I have contributed few patches to Mozilla in the past and 
-currently working with Mozilla.
+I am also a contributor at Mozilla Foundation. I have contributed few patches to Mozilla.
 
 ## Fedora
-I am also very much involved in Fedora Community. Though my contributions to Fedora are few as of writing this.
+Have been doing package reviews lately.
 
 I have worked on several projects, few of which included bleeding edge
 technologies to manage and operate on data, sometimes big data too. Few of which
