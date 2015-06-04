@@ -7,7 +7,7 @@ tags: [gnome-soc, gnome]
 ---
 {% include JB/setup %}
 
-This post is in [series](http://pricked.in/gsoc.xml) about my [GSoC project:
+This post is in [series](http://pranavk.github.io/gsoc.xml) about my [GSoC project:
 Browsing DLNA Media Servers in Photos](https://wiki.gnome.org/ThreePointThirteen/Features/BrowseDMSPhotos).
 
 If you checked out latest GNOME 3.13.3 release, you might have observed that
@@ -46,7 +46,7 @@ requires testing to find bugs that might have crept in during the coding phase.
 Performance in mining the media server content is one of the main
 issues right now. If you followed my
 [previous
-post](http://pricked.in/open-source/mediaserver-miner-for-gnome-online-miners/)
+post](http://pranavk.github.io/open-source/mediaserver-miner-for-gnome-online-miners/)
 about the media server miner, I mentioned about searching for content in non
 searchable devices. I had to adopt a recursive directory by directory approach
 to mine contents in non searchable media servers. It currently takes around 6 to

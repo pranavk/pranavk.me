@@ -8,14 +8,13 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Pricked.in
-tagline: pricks the inner you !
+title : pranavk.me
+tagline: personal blog !
 author :
   name : Pranav Kant
-  email : pranav913@gmail.com
-  github : pranav913
-  twitter : pranav913
-  feedburner : pranav913
+  email : pranavk@gnome.org
+  github : pranavk
+  twitter : pranvk
 
 javascripts :
   enabled : true
@@ -30,7 +29,7 @@ markdown: kramdown
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://pricked.in/
+production_url : http://pranavk.me/
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #

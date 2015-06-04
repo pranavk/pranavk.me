@@ -8,7 +8,7 @@ tags: [gnome-soc, wavescalar, spatial-computing, dfg, cfg, parallelism, ILP]
 {% include JB/setup %}
 
 This is in continuation to my earlier introductory post on [Spatial
-Computing](http://pricked.in/architecture/spatial-computing) project I have been
+Computing](http://pranavk.github.io/architecture/spatial-computing) project I have been
 working on.
 
 I spent my last few days transforming the traditional control flow of the
