@@ -3,8 +3,8 @@ layout: post
 title: "Integrate Libreoffice with gnome-documents"
 description: "This post talks aabout my work, part of GSoC 2015, which aims at
 integrating LO tiled rendering with gnome-documents"
-category: 
-tags: [gnome-soc, gsosc15, gnome-documents, libreoffice]
+category: open-source
+tags: [gnome-soc, gsoc15, gnome-documents, libreoffice]
 ---
 {% include JB/setup %}
 
