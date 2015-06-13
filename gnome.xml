@@ -15,7 +15,7 @@ layout: nil
  </author>
 
  {% for post in site.posts %}
- {% if post.tags contains 'gnome-soc' %}
+ {% if post.tags contains 'pgo' %}
  <entry>
    <title>{{ post.title }}</title>
    <link href="{{ site.production_url }}{{ post.url }}"/>
