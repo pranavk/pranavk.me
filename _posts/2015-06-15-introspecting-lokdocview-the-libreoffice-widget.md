@@ -3,7 +3,7 @@ layout: post
 title: "Introspecting LOKDocView, the LibreOffice widget"
 description: "As part of my GSoC 2015 work under LibreOffice"
 category: open-source
-tags: [pgo, libreoffice, gnome, gobject, pfo]
+tags: [pgo, libreoffice, gnome, gobject, pfo, tdf]
 ---
 {% include JB/setup %}
 
