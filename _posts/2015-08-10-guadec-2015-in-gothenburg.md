@@ -2,7 +2,7 @@
 layout: post
 title: "GUADEC 2015 in Gothenburg"
 description: "Post is about my participation in GUADEC 2015 held at Gothenburg, Sweden"
-category: 
+category: open-source
 tags: [gnome, libreoffice, pgo, pfo, tdf]
 ---
 {% include JB/setup %}
