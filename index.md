@@ -10,7 +10,7 @@ tagline:
 ---
 
 {% assign posts = site.posts %}
-{% assign listing_limit = 5 %}
+{% assign listing_limit = 30 %}
 {% include post-listing.html %}
 
 
