@@ -12,7 +12,7 @@ title : pranavk.me
 tagline: personal blog !
 author :
   name : Pranav Kant
-  email : pranavk@gnome.org
+  email : pranav913@gmail.com
   github : pranavk
   twitter : pranvk
 
@@ -29,7 +29,7 @@ markdown: kramdown
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://pranavk.github.io
+production_url : http://pranavk.me
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
