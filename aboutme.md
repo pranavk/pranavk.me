@@ -11,8 +11,8 @@ CV [here](http://pranavk.github.io/cv.pdf).
 
 ### Contact Me
 - pranavk (my IRC nick) - mostly available on freenode and GIMPNet
-- [Twitter](http://www.twitter.com/pranvk)
-- [LinkedIn](in.linkedin.com/in/pranvk/)
+- [Twitter](https://twitter.com/pranvk)
+- [LinkedIn](https://www.linkedin.com/in/pranvk/)
 
 GPG Fingerprint: 5C83 3967 48DF 5B6B 3376  AD36 A005 70C4 C702 5AF7
 
