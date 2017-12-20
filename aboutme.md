@@ -7,7 +7,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-CV [here](http://pranavk.github.io/cv.pdf).
+CV [here](/cv.pdf).
 
 ### Contact Me
 - pranavk (my IRC nick) - mostly available on freenode and GIMPNet
